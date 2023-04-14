@@ -1,6 +1,8 @@
 # POKEDEX
-
-https://user-images.githubusercontent.com/121260233/232157504-80360d28-b133-4cc6-8f61-aaef1e51b3a9.png
+<div align="center">
+  <img width=200 height=300 src="https://user-images.githubusercontent.com/121260233/232157504-80360d28-b133-4cc6-8f61-aaef1e51b3a9.png" />
+  <img width=200 height=300 src="https://user-images.githubusercontent.com/121260233/232158103-22bc247b-9045-48f2-afc9-4a7d35ed0428.png" />
+</div>
 
 ##
 
