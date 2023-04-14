@@ -1,8 +1,8 @@
 # POKEDEX
 
-##
+https://user-images.githubusercontent.com/121260233/232157504-80360d28-b133-4cc6-8f61-aaef1e51b3a9.png
 
-https://prnt.sc/FgD5GbPc2d33
+##
 
 Fiz essa criação, pois vi alguns da minha rede postando uma ideia parecida com essa.
 Achei interessante, pois iria colocar meus conhecimentos de API em prática.
