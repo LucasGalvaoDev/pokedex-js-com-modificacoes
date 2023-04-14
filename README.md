@@ -6,7 +6,7 @@
 
 ##
 
-Fiz essa criação, pois vi alguns da minha rede postando uma ideia parecida com essa.
+Fiz essa criação, pois vi pessoas da minha rede postando uma ideia parecida com essa.
 Achei interessante, pois iria colocar meus conhecimentos de API em prática.
 Gostei demais da experiência e criei as seguintes funcionalidades.
 
@@ -21,5 +21,5 @@ Gostei demais da experiência e criei as seguintes funcionalidades.
 
 ##
 
-Achei uma experiência muito positiva e espero que vocês topem esse desafio.
+Achei uma experiência muito positiva e espero que vocês gostem e tomem como um novo desafio.
 Dessa forma unimos os nossos conhecimentos em front-end e os de consumo de API com essa grande e famosa franquia.
